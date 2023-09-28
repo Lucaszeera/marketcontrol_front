@@ -1,6 +1,6 @@
 import Link from "next/link"
 import NavBar from "../components/NavBar"
-export default function CadastrarFilial() {
+export default function Perfil() {
   return (
     <div>
       <NavBar active={"perfil"}/>
